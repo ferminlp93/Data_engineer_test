@@ -1,0 +1,7 @@
+{
+    "Type": "OrderPlaced",
+    "Data": {
+        "OrderId": "9l6mq4fp-2haw-ki7r-10n2-g7xb748mh0h3",
+        "TimestampUtc": "2018-01-10T19:12:39Z"
+    }
+}

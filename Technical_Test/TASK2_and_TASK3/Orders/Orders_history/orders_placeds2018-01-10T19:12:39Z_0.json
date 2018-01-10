@@ -1,0 +1,14 @@
+{
+    "Type": "OrderPlaced",
+    "Data": {
+        "OrderId": "kensm3r3-0asd-qz9b-mghm-ictakljqbuty",
+        "TimestampUtc": "2018-01-10T19:12:39Z"
+    }
+}
+{
+    "Type": "OrderPlaced",
+    "Data": {
+        "OrderId": "l6f9su1r-5nif-4s2e-svvq-ss13jful77yf",
+        "TimestampUtc": "2018-01-10T19:12:39Z"
+    }
+}
